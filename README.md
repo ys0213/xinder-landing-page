@@ -14,7 +14,7 @@ This project showcases the ability to transform Figma designs into production-re
 
 ## Live Demo & Original Design
 
-- ** Live Website**: [https://github.com/ys0213/xinder-landing-page.git]
+- ** Live Website**: [https://ys0213.github.io/xinder-landing-page-demo]
 - ** Original Figma Design**: [https://www.figma.com/design/mZAK8SmcRpL2GycoDzwfKg/xinder-landing-page?node-id=0-1&t=iIRVXcaXZrvSp505-1]
 
 ## Features
